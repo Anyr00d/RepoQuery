@@ -1,0 +1,19 @@
+# Node.js (for both frontend & backend)
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# OS-specific
+.DS_Store
+
+# Docker
+*.local
+docker-compose.override.yml
