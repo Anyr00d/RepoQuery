@@ -1,4 +1,3 @@
-cat > README.md <<EOF
 # RepoQuery
 
 RepoQuery is a natural language GitHub assistant that enables developers to query codebases contextually using LLMs, semantic search, and vector embeddings.
